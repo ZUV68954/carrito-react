@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from 'react';
+import AwesomeButtonStyles from 'react-awesome-button/src/styles/styles.scss';
 import {AwesomeButton} from "react-awesome-button";
 
 function App() {
